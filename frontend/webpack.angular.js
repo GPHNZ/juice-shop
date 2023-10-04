@@ -1,5 +1,4 @@
 // this file contains extras that should override angular's default configs
-
 const { CycloneDxWebpackPlugin } = require('@cyclonedx/webpack-plugin')
 
 module.exports = {
